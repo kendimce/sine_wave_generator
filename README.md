@@ -12,4 +12,4 @@
 
 > **3-** Send it through DAC
 
-![Sine Wave Generator](https://github.com/kendimce/fpga/blob/master/sine_wave_generator/files/modelsim.png "Simulator")
+![Sine Wave Generator](https://github.com/kendimce/fpga/blob/master/sine_wave_generator/files/modelsim.png)
